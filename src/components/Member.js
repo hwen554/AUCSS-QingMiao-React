@@ -27,7 +27,7 @@ function Member(){
                                     <li>Merchants Preferential</li>
                                 </ul>
                                 <Button buttonSize='btn--wide' buttonColor='primary'>
-                                    Get this
+                                    Choose this
                                 </Button>
                             </div>
                         </Link>
@@ -44,7 +44,7 @@ function Member(){
                                     <li>Merchants Preferential</li>
                                 </ul>
                                 <Button buttonSize='btn--wide' buttonColor='primary'>
-                                    Get this
+                                    Choose this
                                 </Button>
                             </div>
                         </Link>
@@ -61,7 +61,7 @@ function Member(){
                                     <li>Merchants Preferential</li>
                                 </ul>
                                 <Button buttonSize='btn--wide' buttonColor='primary'>
-                                    Get this
+                                    Choose this
                                 </Button>
                             </div>
                         </Link>
