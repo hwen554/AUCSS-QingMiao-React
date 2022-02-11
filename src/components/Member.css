@@ -36,7 +36,9 @@
 }
 .pricing__heading{
     color: red;
-    margin-bottom: 24px;
+    padding: 20px;
+    border-radius: 4px;
+    align-items: center;
 }
 .pricing__container-cardInfo{
     display: flex;
